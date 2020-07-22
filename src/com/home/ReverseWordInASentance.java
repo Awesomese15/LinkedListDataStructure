@@ -1,3 +1,12 @@
+/*
+Write a simple program that reads a line from the keyboard and outputs the same line where every word is reversed. A word is defined as a continuous sequence of alphanumeric characters or hyphen (‘-’). For instance, if the input is
+“We are at Zazzy Solutions! Their email-id is careers@zazzy.tech” the output should be
+“eW era ta yzzaZ snoituloS! riehT di-liame si sreerac@yzzaz.hcet”
+
+* */
+
+
+
 package com.home;
 
 import java.io.BufferedReader;

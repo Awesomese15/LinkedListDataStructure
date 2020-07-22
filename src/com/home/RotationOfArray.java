@@ -1,3 +1,7 @@
+/*Write a function that takes an array of integers and returns that array rotated by N positions using Python or Ruby or JavaScript.
+For example, if N=2, given the input array [1, 2, 3, 4, 5, 6] the function should return [5, 6, 1, 2, 3, 4]:
+*/
+
 package com.home;
 
 public class RotationOfArray {

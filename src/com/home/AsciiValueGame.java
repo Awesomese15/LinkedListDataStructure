@@ -1,3 +1,11 @@
+/*
+Consider the following pattern:
+A → D M → P X → A a → d m → p x → a
+Now, write a program to solve the following message using Python, JavaScript or Ruby.
+Vrphwklqj phdqlqjixo
+Hint: The answer is something meaningful
+* */
+
 package com.home;
 
 import java.io.BufferedReader;
