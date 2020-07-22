@@ -47,7 +47,8 @@ public class RotationOfArray {
     public static  void main(String [] args){
     RotationOfArray obj=new RotationOfArray();
         int arr[] = { 1, 2, 3, 4, 5, 6, 7, 8,9,10,11,12,13,14 };
-        obj.leftRotate(arr, 4, arr.length);
+        int n=4;
+        obj.leftRotate(arr, n, arr.length);
         obj.printArray(arr, arr.length);
 
 

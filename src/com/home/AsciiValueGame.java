@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 public class AsciiValueGame {
     public static char getPartner(char value){
         int inAscii=(int)value;
-        int outAscii=inAscii+3;
+        int outAscii=inAscii+23;
         boolean small=false;
         boolean capital=false;
         if(inAscii>=65 && inAscii<=90){
@@ -16,16 +16,27 @@ public class AsciiValueGame {
         if(inAscii>=97 && inAscii<=122){
             small=true;
         }
-        if(capital && outAscii>90){
-            outAscii=outAscii-26;
+        if(capital){
+            if(outAscii>90){
+                outAscii=outAscii-26;
+                return (char) outAscii;
+            }else{
+                return (char) outAscii;
+            }
+
         }
-        if(small && outAscii>122){
-            outAscii=outAscii-26;
+        if(small ){
+            if(outAscii>122){
+                return (char) (outAscii-26);
+            }else{
+                return (char)outAscii;
+            }
+
         }
 
 
+        return value;
 
-        return (char)outAscii;
     }
     public static  void main (String [] args) throws IOException {
         BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
