@@ -1,3 +1,13 @@
+/*
+ * You are given a String adeccccbba.
+ * Divide this in two not null parts. left=adecc & right=ccbba
+ * now make left part rigt and right part left
+ * then remove similar characters in the new string. meaning ccbbaadecc will be ccbbdecc=> ccbb && decc
+ * repeat steps 1-4. deccccbb will be bbde
+ * So final ans should be bbde coz bb && de has no similar suffix and prifix respectivelly
+
+ * */
+
 package com.home;
 
 import java.io.BufferedReader;
