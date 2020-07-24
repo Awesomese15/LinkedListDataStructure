@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="eb8aacdb-8f5a-4351-bbc7-eea9c0803486" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/home/AsciiValueGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/home/AsciiValueGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/home/RotationOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/home/RotationOfArray.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +34,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DigitalRootIteration">
+  <component name="RunManager" selected="Application.JumblingAString">
     <configuration name="AsciiValueGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.home.AsciiValueGame" />
       <module name="JumpSearch" />
@@ -63,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindGCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.home.FindGCD" />
+    <configuration name="JumblingAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.home.JumblingAString" />
       <module name="JumpSearch" />
       <extension name="coverage">
         <pattern>
@@ -104,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JumblingAString" />
         <item itemvalue="Application.DigitalRootIteration" />
         <item itemvalue="Application.RotationOfArray" />
         <item itemvalue="Application.AsciiValueGame" />
         <item itemvalue="Application.ReverseWordInASentance" />
-        <item itemvalue="Application.FindGCD" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592813014675</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Zazzy problems solved">
+      <created>1595401220750</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595401220750</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,7 +154,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Finnding the middle node with diffrent technique." />
     <MESSAGE value="Finding the middle node with diffrent technique." />
-    <option name="LAST_COMMIT_MESSAGE" value="Finding the middle node with diffrent technique." />
+    <MESSAGE value="Zazzy problems solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zazzy problems solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -176,27 +182,27 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/home/RotationOfArray.java</url>
-          <line>10</line>
+          <line>14</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/home/RotationOfArray.java</url>
-          <line>40</line>
+          <line>44</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/home/RotationOfArray.java</url>
-          <line>43</line>
+          <line>47</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/home/ReverseWordInASentance.java</url>
-          <line>53</line>
+          <line>62</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/home/ReverseWordInASentance.java</url>
-          <line>34</line>
+          <line>43</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
