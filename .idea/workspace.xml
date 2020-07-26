@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eb8aacdb-8f5a-4351-bbc7-eea9c0803486" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/home/JumblingAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/home/JumblingAString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JumpSearch/com/home/JumblingAString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JumpSearch/com/home/JumblingAString.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,9 +35,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JumblingAString">
-    <configuration name="AsciiValueGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.home.AsciiValueGame" />
+  <component name="RunManager" selected="Application.sortAnArray">
+    <configuration name="DigitalRootIteration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.home.DigitalRootIteration" />
       <module name="JumpSearch" />
       <extension name="coverage">
         <pattern>
@@ -49,8 +49,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DigitalRootIteration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.home.DigitalRootIteration" />
+    <configuration name="DuplicateInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.home.DuplicateInAnArray" />
       <module name="JumpSearch" />
       <extension name="coverage">
         <pattern>
@@ -75,19 +75,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseWordInASentance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.home.ReverseWordInASentance" />
-      <module name="JumpSearch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.home.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RotationOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.home.RotationOfArray" />
       <module name="JumpSearch" />
@@ -101,13 +88,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sortAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.home.sortAnArray" />
+      <module name="JumpSearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sortAnArray" />
+        <item itemvalue="Application.DuplicateInAnArray" />
         <item itemvalue="Application.JumblingAString" />
         <item itemvalue="Application.DigitalRootIteration" />
         <item itemvalue="Application.RotationOfArray" />
-        <item itemvalue="Application.AsciiValueGame" />
-        <item itemvalue="Application.ReverseWordInASentance" />
       </list>
     </recent_temporary>
   </component>
@@ -210,6 +210,16 @@
           <url>file://$PROJECT_DIR$/src/com/home/DigitalRootIteration.java</url>
           <line>11</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/home/DuplicateInAnArray.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/home/sortAnArray.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
