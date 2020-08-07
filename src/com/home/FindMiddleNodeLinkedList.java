@@ -44,7 +44,7 @@ public class FindMiddleNodeLinkedList {
     public static  void main(String [] args){
         FindMiddleNodeLinkedList linkedList=new FindMiddleNodeLinkedList();
        /* linkedList.push(6);*/
-        linkedList.push(5);
+        //linkedList.push(5);
         linkedList.push(4);
         linkedList.push(3);
         linkedList.push(2);
